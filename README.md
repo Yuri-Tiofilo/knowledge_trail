@@ -22,4 +22,10 @@
       - HTML - Mais atual  Modulo 1 e Modulo 2:
           - Curso em video - Modulo 1: https://www.cursoemvideo.com/course/html5-css3-modulo1/
           - Curso em video - Modulo 2: https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/
+   <br>
+   <br>
+   5º Passo:
+      - Git e Github:
+         - Curso em video: https://www.cursoemvideo.com/course/curso-de-git-e-github/
+   
       
