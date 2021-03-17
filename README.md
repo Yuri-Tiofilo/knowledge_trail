@@ -16,11 +16,10 @@
    3º Passo:
       - HTML - Criando um site:
           - Curso em video: https://www.cursoemvideo.com/course/html5/
-
    <br>
    <br>
-   
    4º Passo:
-      - HTML - Mais atual:
+      - HTML - Mais atual  Modulo 1 e Modulo 2:
           - Curso em video - Modulo 1: https://www.cursoemvideo.com/course/html5-css3-modulo1/
-          - Curso em video - Modulo 1: https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/
+          - Curso em video - Modulo 2: https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/
+      
