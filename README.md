@@ -27,5 +27,11 @@
    5º Passo:
       - Git e Github:
          - Curso em video: https://www.cursoemvideo.com/course/curso-de-git-e-github/
+    
+   <br>
+   <br>     
+   6º Passo:
+      - Discover:
+         - https://rocketseat.com.br/discover
    
       
